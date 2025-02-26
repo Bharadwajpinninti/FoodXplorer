@@ -63,7 +63,7 @@ const RestaurantDetail = () => {
 
   return (
     <div
-      className="min-h-screen bg-black p-4 md:p-6 md:bg-cover md:bg-center"
+      className="min-h-screen bg-black p-4 md:p-6 md:bg-contain"
       style={{
         backgroundImage: window.innerWidth >= 1000 ? `url(${BgImage})` : "none",
       }}
