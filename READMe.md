@@ -17,3 +17,5 @@
 - **Styling**: Tailwind CSS
 - **Icons**: React Icons (`FaSearchLocation`, `FaImage`, etc.)
 - **File Upload**: FormData for image uploads
+## **🌐 Live Demo**  
+Check out the live app: [FoodXplorer](https://foodxplore.onrender.com) 
